@@ -2,93 +2,49 @@ This readme file was generated on [2024-11-25] by [Lukasz Przybylski]
 
 GENERAL INFORMATION
 
-Title of Dataset: 
+Title of Dataset: GEGO 587 Assignment 9 Dataset
 
-<provide at least two contacts>
 Author/Principal Investigator Information
-Name: 
-ORCID:
-Institution: 
-Address: 
-Email: 
+Name: Lukasz Przybylski
+Institution: University 
+Email: Lukasz.przybylski@ucalgary.ca
 
-Author/Associate or Co-investigator Information
-Name: 
-ORCID:
-Institution: 
-Address: 
-Email: 
-
-Author/Alternate Contact Information
-Name: 
-ORCID:
-Institution: 
-Address: 
-Email: 
-
-Date of data collection: <provide single date, range, or approximate date; suggested format YYYY-MM-DD> 
-
-Geographic location of data collection: <provide latitude, longiute, or city/region, State, Country>
-
-Information about funding sources that supported the collection of the data: 
-
+Date of data collection: 2024-10-01 - 2024-11-20
 
 SHARING/ACCESS INFORMATION
 
-Licenses/restrictions placed on the data: 
+Licenses/restrictions placed on the data: Creative Commons Attribution ShareAlike 4.0 International Licence
 
-Links to publications that cite or use the data: 
-
-Links to other publicly accessible locations of the data: 
-
-Links/relationships to ancillary data sets: 
+Links to other publicly accessible locations of the data: https://data.calgary.ca/ - https://open.alberta.ca/opendata - https://www.statcan.gc.ca/en/start
 
 Was data derived from another source?
-If yes, list source(s): 
+If yes, list source(s): Open Calgary, Government of Alberta, Statistics Canada
 
-Recommended citation for this dataset: 
-
-
-DATA & FILE OVERVIEW
-
-File List: <list all files (or folders, as appropriate for dataset organization) contained in the dataset, with a brief description>
-
-Relationship between files, if important: 
-
-Additional related data collected that was not included in the current data package: 
-
-Are there multiple versions of the dataset?
-If yes, name of file(s) that was updated: 
-Why was the file updated? 
-When was the file updated? 
+Recommended citation for this dataset: APA Format 
 
 
 METHODOLOGICAL INFORMATION
 
-Description of methods used for collection/generation of data: <include links or references to publications or other documentation containing experimental design or protocols used in data collection>
+Description of methods used for collection/generation of data: Colected off of open data portals
 
-Methods for processing the data: <describe how the submitted data were generated from the raw or collected data>
+Methods for processing the data: The data was prcessed and examined using ArcGIS Pro
 
-Instrument- or software-specific information needed to interpret the data: <include full name and version of software, and any necessary packages or libraries needed to run scripts>
+Instrument- or software-specific information needed to interpret the data: ArcGIS Pro
 
-Standards and calibration information, if appropriate: 
+People involved with sample collection, processing, analysis and/or submission: Lukasz Przybylski 
 
-Environmental/experimental conditions: 
-
-Describe any quality-assurance procedures performed on the data: 
-
-People involved with sample collection, processing, analysis and/or submission: 
+Shield: [![CC BY-NC 4.0][cc-by-nc-shield]][cc-by-nc]
 
 
-DATA-SPECIFIC INFORMATION FOR: [FILENAME]
-<repeat this section for each dataset, folder or file, as appropriate>
+LICENCE
 
-Number of variables: 
+Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
-Number of cases/rows: 
+This work is licensed under a
+[Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa].
 
-Variable List: <list variable name(s), description(s), unit(s) and value labels as appropriate for each>
+[![CC BY-SA 4.0][cc-by-sa-image]][cc-by-sa]
 
-Missing data codes: <list code/symbol and definition>
-
-Specialized formats or other abbreviations used: 
+[cc-by-sa]: http://creativecommons.org/licenses/by-sa/4.0/
+[cc-by-sa-image]: https://licensebuttons.net/l/by-sa/4.0/88x31.png
+[cc-by-sa-shield]: https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg
